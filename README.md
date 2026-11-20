@@ -230,4 +230,4 @@ Gizli anahtarlar (`SECRET_KEY`, API anahtarları, Grafana parolası) `.env` içi
 
 ---
 
-**Hazırlayan:** Kaan Budak — SOC L1 → Güvenlik Mühendisliği hedefi
+**Hazırlayan:** Mahir KAY  
