@@ -1,0 +1,11 @@
+.env
+*.env
+!*.env.ornek
+__pycache__/
+*.pyc
+*.log
+caddy/data/
+caddy/config/
+**/certificates/
+loki-data/
+grafana-data/
